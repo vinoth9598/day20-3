@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    width:100%;
+    background-color: rgb(94, 199, 120);
+
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: italic;
+    padding:20px;
+    width:100%;
+    text-align:center;
+    background-color: rgb(24, 135, 233);
+    
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: white;
+}
+#getJokeButton{
+    width:100px;
+    margin-left:10px;
+    border-radius: 6px;
+    border-color: aliceblue;
+    padding:5px;
+    cursor:pointer;
+
+}
+#jokeContainer{
+    margin-top: 5px;
+    padding:20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:darkblue;
+}
